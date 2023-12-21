@@ -1,2 +1,5 @@
-print("hai")
-aj
+def hai():
+  print("hai")
+
+
+hai()
